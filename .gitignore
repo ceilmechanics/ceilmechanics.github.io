@@ -1,0 +1,4 @@
+# Original photos (only the cropped assets/profile.jpg is published)
+*.heic
+*.HEIC
+.DS_Store
